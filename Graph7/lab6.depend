@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1715878313 source:c:\users\kraskir\desktop\graph6\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1716259866 source:c:\users\mvide\desktop\graphics\5 и 6\graph6\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1716260483 source:c:\users\mvide\desktop\graphics\graph7\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
